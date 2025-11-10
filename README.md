@@ -34,11 +34,13 @@ while True:
 ## OUTPUT
 ### CLIENT
 
+<img width="628" height="314" alt="Screenshot 2025-11-10 182349" src="https://github.com/user-attachments/assets/231ad711-c4ed-44e8-8849-d3ae2133629a" />
 
 
 ### SERVER
 
-![Uploading Screenshot 2025-11-10 182355.png…]()
+
+<img width="546" height="183" alt="Screenshot 2025-11-10 182355" src="https://github.com/user-attachments/assets/1c7a9e79-a50e-445d-b50c-cb34d9c30d31" />
 
 
 
