@@ -32,7 +32,14 @@ while True:
     c.send(ClientMessage.encode())
 ```
 ## OUTPUT
-<img width="1852" height="1004" alt="Screenshot 2025-10-17 192629" src="https://github.com/user-attachments/assets/c2e75e86-73db-49a6-bcd9-72b3d2c5e4ea" />
+### CLIENT
+
+
+
+### SERVER
+
+![Uploading Screenshot 2025-11-10 182355.png…]()
+
 
 
 ## RESULT
